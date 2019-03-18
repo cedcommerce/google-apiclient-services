@@ -1,5 +1,5 @@
 {
-    "name": "google/apiclient-services",
+    "name": "cedcommerce/google-apiclient-services",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
